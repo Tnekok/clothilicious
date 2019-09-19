@@ -7,7 +7,7 @@ const config = {
   authDomain: "e-commerce-clothing-2adef.firebaseapp.com",
   databaseURL: "https://e-commerce-clothing-2adef.firebaseio.com",
   projectId: "e-commerce-clothing-2adef",
-  storageBucket: "",
+  storageBucket: "e-commerce-clothing-2adef.appspot.com",
   messagingSenderId: "182510193072",
   appId: "1:182510193072:web:6037392f0320f1d1"
 };
